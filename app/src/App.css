@@ -1,0 +1,16 @@
+.App {
+    text-align: center;
+    background-color: yellow;
+}
+
+li {
+    margin: 30px;
+    text-align: center;
+}
+
+ol {
+    
+    display: inline-block;
+}
+
+    
